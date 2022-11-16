@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5, h5{
+    color:rgb(0,255,0);
+}
+.blue{
+    color: #00F;
+}
+header {
+    background-color: rgba(0,0,0,0.6);
+}
+body{
+    background:url("images/img1.jpg");
+}
+
+ul{
+    background : rgba(0,0,255,0.6);
+}
+
+li{
+    color: #F00;
+}
+a{
+    color:rgb(255, 0, 200);
+}
+.img-circle{
+    height:500px ;
+    width:500px;
+    border-radius:100%;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+}
+.circle{
+    
+}
